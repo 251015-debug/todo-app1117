@@ -60,4 +60,3 @@ jobs:
         env:
           NEXT_PUBLIC_APP_NAME: ${{ vars.APP_NAME }}
 
-

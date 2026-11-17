@@ -1,5 +1,8 @@
 # todo-app（Phase 1 完成版）
 
+## 公開URL
+
+- 本番（Vercel）：https://todo-app1117-1cuvwb3n5-251015-debugs-projects.vercel.app/
 「Webフロントエンド」授業 Phase 1（コマ1〜6）の完成版 TODO アプリです。
 Next.js（App Router）で作っています。
 
